@@ -1,3 +1,8 @@
+![Screenshot](C:\Users\Adarsh\OneDrive\Pictures\Screenshots\Screenshot (359).png)
+
+
+
+
 # Simple Restaurant Menu Web Page
 
 This is a basic restaurant menu web page created using HTML and internal CSS. It features a clean and responsive layout for displaying food items and prices.
